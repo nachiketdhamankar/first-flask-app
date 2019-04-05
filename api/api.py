@@ -59,4 +59,5 @@ def api_id():
     # Python dictionaries to the JSON format.
     return  jsonify(results) if bool(results) else '<h2>No results found.</h2><p>Please enter valid id</p>'
 
-app.run()
+if __name__ == '__main__':
+    app.run()
