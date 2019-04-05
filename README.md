@@ -1,7 +1,7 @@
 ## My first Flask App
 
 Based on the [this](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask) article about creating your first flask app.
-You can find it [here](https://nachiket-first-flask-app.herokuapp.com/
+You can find the app [here](https://nachiket-first-flask-app.herokuapp.com/
 )
 
 ### Usage
